@@ -1,7 +1,8 @@
 # Relise-debug.
-Program in Visual Studio (c++ console application).
+Program in:Windows- Visual Studio(2015; 2017) (c++ console application).
+          :Android Cxxdroid app.
  
- 
+  
 1]  Нельзя вывести unsignet int = MAX. 
 Причина - insignet int не может быть -1.
  
