@@ -1,7 +1,7 @@
 # Relise-debug.
-Program in:Windows- Visual Studio(2015; 2017) (c++ console application).
- 
-          :Android Cxxdroid app.
+Program in: Windows- Visual Studio(2015; 2017) (c++ console application).
+
+          : Android Cxxdroid app. 
  
   
 1]  Нельзя вывести unsignet int = MAX. 
