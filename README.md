@@ -1,6 +1,5 @@
 # Relise-debug.
 Program in: Windows- Visual Studio(2015; 2017) (c++ console application).
-
           : Android Cxxdroid app. 
  
   
